@@ -50,6 +50,7 @@ def get_info(html):
 
 
 def write_to_csv(infos):
+    pass
     
 
 # download('http://httpstat.us/500')
